@@ -12,7 +12,5 @@ Notes:
 -Due to Twitter developer policies, I am not able to share the data set of downloaded Tweet replies so my DATA EXTRACTION and DATA CLEANSING steps are not shown at this time but will be added soon!
 
 Plans for Version 2.0:
-
-    Formulate method for cleaning Tweet replies, such as removing those that are from bots or are spam.
-
-    Analyze the sentiment of replies using the BERTweet model, which would be more appropriate for this project since it was trained on a corpus of Tweets: https://github.com/VinAIResearch/BERTweet
+-Formulate method for cleaning Tweet replies, such as removing those that are from bots or are spam.
+-Analyze the sentiment of replies using the BERTweet model, which would be more appropriate for this project since it was trained on a corpus of Tweets: https://github.com/VinAIResearch/BERTweet
