@@ -1,5 +1,4 @@
 # Tweet_NLP_Sentiment_Analysis
-Run a sentiment analysis on the replies to a tweet
 
 Objective: Understand public reaction of a Tweet by analyzing the sentiment of each reply.
 
